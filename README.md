@@ -1,14 +1,14 @@
 ### Olá pessoal! 👋
+Irei utilizar os repositórios para publicar minhas revisões de estudo.
+
 ### Hi guys! 👋
-### みなさん、こんにちは! 👋
+I'll use the repositories to publish my study reviews.
 
-Galera, irei utilizar os repositórios para publicar minhas revisões de estudo.
+### Hola gente! 👋
+Usaré los repositorios para publicar las reseñas de mis estudios.
 
-Guys, I will use the repositories to publish my study reviews.
-
+### 皆さん、こんにちは! 👋
 皆さん、私は勉強のレビューを公開するためにリポジトリを使用します。
-
-
 
 <!--
 **dantgarcia/dantgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
