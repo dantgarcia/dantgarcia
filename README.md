@@ -1,6 +1,6 @@
-### Olá pessoal! 👋
-### Hi there! 👋
-### みなさん、こんにちは! 👋
+## Olá pessoal! 👋
+## Hi guys! 👋
+## みなさん、こんにちは! 👋
 
 Galera, irei utilizar os repositórios para publicar minhas revisões de estudo.
 
